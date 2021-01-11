@@ -9,7 +9,7 @@ QC training developed by Pathogen Informatics at Wellcome Sanger Institute.
 
 ## Introduction
 
-This is a training module for QC in the form of jupyter notebooks. Begin in the index notebook and this will guide you through the training.
+This is a training module for QC in the form of jupyter notebooks. Begin in the [index](QC/index.ipynb) notebook and this will guide you through the training.
 
 Key aims of the training include:
 
