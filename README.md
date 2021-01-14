@@ -21,3 +21,16 @@ Key aims of the training include:
 ## Feedback/Issues
 
 Please report any issues to the [issues page](https://github.com/sanger-pathogens/QC-training/issues) or email path-help@sanger.ac.uk
+
+## Software used
+
+The tutorial runs in a container with the following software installed:
+- bcftools 1.10.2
+- bwa 0.7.17
+- kraken 1.1.1
+- perl 5.30.0
+- picard 2.22.2
+- samtools 1.10
+
+
+
